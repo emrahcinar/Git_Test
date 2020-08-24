@@ -6,5 +6,6 @@ public class Seker {
         System.out.println("Tek seker");
         System.out.println("Tek seker");
         System.out.println("Tek seker");
+        System.out.println("Tek seker");
     }
 }
