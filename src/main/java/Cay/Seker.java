@@ -9,6 +9,7 @@ public class Seker {
         System.out.println("Cift sekerli cay");
 
         System.out.println("Cift sekerli ceek");
+        System.out.println("Cift sekerli ceek");
 
     }
 }
